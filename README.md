@@ -5,9 +5,9 @@ Four sessions of 3 hours: 1 h 30 lecture, 1 h 30 practical (TD).
 
 ## Session material
 
-| Session | Topic | Slides | TD handout | Extra |
-|---|---|---|---|---|
-| 1 | Terminal & Git fundamentals | [slides](session1/session1-slides.pdf) | [TD1](session1/td1-handout.pdf) | [bash cheat-sheet](session1/bash-cheatsheet.pdf) |
+| Session | Topic | Slides | TD handout | Answer key | Extra |
+|---|---|---|---|---|---|
+| 1 | Terminal & Git fundamentals | [slides](session1/session1-slides.pdf) | [TD1](session1/td1-handout.pdf) | [TD1 answers](session1/td1-answers.pdf) | [bash cheat-sheet](session1/bash-cheatsheet.pdf) |
 
 Material for the next sessions is added before each session.
 
