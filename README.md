@@ -22,3 +22,14 @@ Each practical uses its own repository. You download it with `git clone` (explai
 |---|---|
 | 1 | https://github.com/msa-datb07-git/td1-shell-and-git |
 | 2 | https://github.com/msa-datb07-git/td2-branches-and-merges |
+
+## Practice on your own
+
+- **shell-practice**: 33 short exercises on the command line and Git, with their solutions.
+  https://github.com/msa-datb07-git/shell-practice
+  ```bash
+  git clone https://github.com/msa-datb07-git/shell-practice.git
+  ```
+- **Learn Git Branching**: Git in your browser, nothing to install; the commit graph draws itself
+  as you type. Start with *Introduction Sequence*. Available in French.
+  https://learngitbranching.js.org
